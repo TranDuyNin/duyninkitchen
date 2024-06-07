@@ -1,0 +1,71 @@
+article {
+    background-image: url(../img/connect.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+}
+h1{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    background-color: brown;
+    width: 600px;
+    margin-left: 480px;
+    border-radius: 20px;
+}
+.form {
+    text-align: center;
+    margin-top: 40px;
+    max-width:500px;
+    margin:50px auto;
+}
+.form1 input[type=text] {
+    color:yellow;
+    font-family: sans-serif;
+    font-weight:3000;
+    font-size: 20px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border:4px solid orangered;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
+    box-sizing: border-box;
+    outline:0;
+}
+.form1 input[type=email] {
+    color:yellow;
+    font-family: sans-serif;
+    font-weight:3000;
+    font-size: 20px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border:4px solid orangered;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
+    box-sizing: border-box;
+    outline:0;
+}
+
+.form1 input[type=submit] {
+    color:white;
+    font-family: sans-serif;
+    font-weight:500;
+    font-size: 18px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: gray;
+    border:4px solid red;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
+    box-sizing: border-box;
+    outline:0;
+}
+.form1 input[type="submit"]:hover {
+    background:red;
+}

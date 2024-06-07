@@ -1,0 +1,195 @@
+.img {
+    margin-left: 100px;
+    width: 100px;
+    margin-left: 12px;
+}
+.ten td{
+    padding-right: 110px;
+}
+.sanpham td{
+    padding-right: 100px;
+}
+.new-icon {
+    position: absolute;
+    height: 50px;
+    top: 0px;
+    right: 0px;
+}
+
+i {
+    font-size: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+a:active {
+    opacity: 0.7;
+}
+
+.under-text {
+    color: white;
+    position: absolute;
+    top: 145px;
+    left: 350px;
+    border-bottom-left-radius: 30px;
+}
+
+.under-text > a {
+    margin: 6px;
+    padding: 3px;
+}
+
+.top-left {
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-bottom-left-radius: 30px;
+}
+
+.top-left > a {
+    margin: 6px;
+    padding: 3px;
+}
+
+.container1 {
+    width: 1350px;
+}
+
+.container11 {
+    float: center;
+}
+
+
+
+.content {
+    display: flex;
+    padding: 20px;
+}
+
+aside {
+    width: 300px;
+    margin-right: 50px;
+    background-color: white;
+}
+
+.image {
+    text-align: center;
+}
+
+.top-right {
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-bottom-left-radius: 30px;
+}
+button {
+    width: 191px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    background-color: #1d1a1a;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+button:hover{
+    background-color: yellow;
+    color: black;
+}
+.thanhtoan button{
+    margin-right: 100px;
+}
+.top-right > a{
+    margin: 6px;
+    padding: 3px;
+}
+.container11 .iconShop {
+    float: center;
+    background:orangered;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-left: none;
+    top: 0px;
+}
+
+.container11 > input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 50%;
+    background: #f1f1f1;
+}
+
+.container11 > button {
+    float: center;
+    width: 7%;
+    padding: 10px;
+    background: #ff5e01;
+    color: white;
+    font-size: 17px;
+    border: 1px solid rgb(255, 255, 255);
+    border-left: none;
+    cursor: pointer;
+}
+
+
+body {
+    background-color: white;
+}
+
+.menu {
+    background-color: orangered;
+    height: 144px;
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center; 
+    padding: 10px; 
+}
+
+img {
+    float: left;
+    margin-right: 10px; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.container {
+width: 1300px;
+height: 700px;
+margin: auto;
+border: 1px solid white;
+background-color: white;
+}
+
+.container .high > img {
+    width: 150px;
+}
+
+.high {
+    width: 150px;
+}

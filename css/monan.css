@@ -1,0 +1,82 @@
+.monan {
+    margin-top: 70px;
+}
+.monan > div > img {
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 100px;
+    width: 700px;
+    height: 400px;
+}
+.monan > div .name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: left;
+    margin-top: -400px;
+    margin-left: 758px;
+}
+.monan > div .stars{
+    margin-left: 760px;
+}
+.monan > div .stars img {
+    width: 30px;
+    height: 30px;
+    
+}
+.monan > div .Grade {
+    font-size: 40px;
+    text-align: right;
+    margin-right: 547px;
+    margin-top: 1%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-left: 40px;
+}
+.monan > div .mota {
+    text-align: left;
+    margin-left: 760px;
+    margin-top: 40px;
+}
+.monan > div .mota p{
+    font-size: 30px;
+    background-color: rgb(8, 137, 229);
+    width: 290px;
+}
+.monan > div .chon button {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: white    ;
+    margin-left: 760px;
+    width: 191px;
+    height: 40px;
+    background-color: #1d1a1a;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+.monan > div .chon button:hover{
+    background-color: yellow;
+    color: black;
+}
+footer{
+    margin-top:270px;
+    border-top:5px double rgb(255, 68, 0);
+    line-height:50px;
+    background-color:rgb(163, 218, 218);
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    clear:both;
+}
+del {
+    font-weight: bold;
+    margin-top: 10px;
+    color: rgb(255, 0, 0);
+    margin-left: 756px;
+    font-size: 30px;
+}
+.background{
+    background-image: url(img/bround.jpg)
+}
